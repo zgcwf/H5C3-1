@@ -6,8 +6,7 @@
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-  font-family: Helvetica Neue, Tahoma, Arial, PingFangSC-Regular,
-    Hiragino Sans GB, Microsoft Yahei, sans-serif;
+  font-family: Helvetica Neue, Tahoma, Arial, PingFangSC-Regular, Hiragino Sans GB, Microsoft Yahei, sans-serif;
 }
 a {
   color: #333;
@@ -125,11 +124,7 @@ header .bottom .more a .iconfont {
   justify-content: space-between;
   width: 100%;
   padding: 2.13333333vw;
-  background-image: linear-gradient(
-    to top,
-    rgba(0, 0, 0, 0.6),
-    rgba(0, 0, 0, 0)
-  );
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0));
   color: #fff;
 }
 .video_content .video_list a .pic .count i {
